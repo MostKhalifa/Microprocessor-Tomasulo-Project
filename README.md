@@ -22,8 +22,8 @@ The mini Tomasulo project aims to demonstrate the performance of the Tomasulo al
 2. Execute the program and follow the on-console instructions
 <h1>Authors</h1>
 <ul>
-  <li><a href="https://github.com/karim-walid-wahdan">Karim Wahdan</a></li>
   <li><a href="https://github.com/MostKhalifa">Mostafa Khalifa</a></li>
+  <li><a href="https://github.com/karim-walid-wahdan">Karim Wahdan</a></li>
 </ul>
 ## Contributing
 
